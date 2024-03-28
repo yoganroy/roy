@@ -1,1 +1,1 @@
-print("mi won the match")
+print("mi won the match")mi got 2 points
